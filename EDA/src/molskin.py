@@ -70,4 +70,4 @@ for n in range(1, 1000, 100):
 
     result_mol.append(pd_result)
 
-result_mol = pd.concat(result_mol)
+result_mol = pd.concat(result_mol )
